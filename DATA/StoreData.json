@@ -1,0 +1,32 @@
+[
+    {
+    "name": "Sarah Jenkins",
+    "age": 36,
+    "rating": "5 " ,
+    "feedback": "Absolutely loved the experience! The interface is very intuitive."
+  },
+  {
+    "name": "David Chen",
+    "age": 42,
+    "rating": "Three",
+    "feedback": "It was okay, but the loading times were a bit slow on mobile."
+  },
+  {
+    "name": "Elena Rodriguez",
+    "rating": "4",
+    "feedback": "Great service overall. Would appreciate more customization options."
+  },
+  {
+    "name": "Sarah Jenkins",
+    "age": 19,
+    "rating": "2",
+    "feedback": "Perfect for what I needed. Highly recommend!"
+  },
+  {
+    "name": "Aisha Patel",
+    "age": 51,
+    "rating": "Five",
+    "feedback": "I found the navigation confusing and couldn't easily find my account settings."
+  }
+]    
+    
